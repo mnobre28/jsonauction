@@ -1,6 +1,6 @@
 import json
 
-from flask import Flask, request
+from flask import Flask, request, abort
 from auction_manager import AuctionManager
 app = Flask(__name__)
 
@@ -9,7 +9,10 @@ app = Flask(__name__)
 def post_bid():
     auction_manager = AuctionManager()
     bid_request = json.loads(request.get_json())
-    auction_manager.insert_bid(bid_request)
+    try:
+        auction_manager.insert_bid(bid_request)
+    except ValueError:
+        abort(500)
     return json.dumps(auction_manager.get_records(), default=str)
 
 

@@ -10,79 +10,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.55446196">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="tests_auction_manager.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/tests/tests_auction_manager.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
-                  <folding>
-                    <element signature="e#0#15#0" expanded="true" />
-                    <element signature="e#152#3931#0" expanded="false" />
-                    <element signature="e#687#2034#0" expanded="false" />
-                    <element signature="e#2080#2848#0" expanded="false" />
-                    <element signature="e#2926#3297#0" expanded="false" />
-                    <element signature="e#3360#3931#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="tests_auction_api.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/tests/tests_auction_api.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="151">
-                  <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-                  <folding>
-                    <element signature="e#0#11#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="auction_manager.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/auction_manager.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="558">
-                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#11#0" expanded="true" />
-                    <element signature="e#394#413#0" expanded="false" />
-                    <element signature="e#684#750#0" expanded="false" />
-                    <element signature="e#806#1025#0" expanded="false" />
-                    <element signature="e#1064#1150#0" expanded="false" />
-                    <element signature="e#1195#1683#0" expanded="false" />
-                    <element signature="e#1723#1760#0" expanded="false" />
-                    <element signature="e#1800#1837#0" expanded="false" />
-                    <element signature="e#1903#2024#0" expanded="false" />
-                    <element signature="e#2079#2199#0" expanded="false" />
-                    <element signature="e#2260#2453#0" expanded="false" />
-                    <element signature="e#2504#2692#0" expanded="false" />
-                    <element signature="e#2758#2880#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auction_manager.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auction_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#394#413#0" expanded="false" />
+                <element signature="e#482#625#0" expanded="false" />
+                <element signature="e#684#750#0" expanded="false" />
+                <element signature="e#806#1025#0" expanded="false" />
+                <element signature="e#1064#1150#0" expanded="false" />
+                <element signature="e#1195#1683#0" expanded="false" />
+                <element signature="e#1723#1760#0" expanded="false" />
+                <element signature="e#1800#1837#0" expanded="false" />
+                <element signature="e#1903#2024#0" expanded="false" />
+                <element signature="e#2079#2199#0" expanded="false" />
+                <element signature="e#2260#2453#0" expanded="false" />
+                <element signature="e#2504#2692#0" expanded="false" />
+                <element signature="e#2758#2880#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,11 +77,11 @@
         <option value="$PROJECT_DIR$/file_manager/stats_manager.py" />
         <option value="$PROJECT_DIR$/stats_manager.py" />
         <option value="$PROJECT_DIR$/temp.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/tests.py" />
         <option value="$PROJECT_DIR$/auction_manager.py" />
         <option value="$PROJECT_DIR$/tests/tests.py" />
         <option value="$PROJECT_DIR$/tests/tests_auction_api.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -146,6 +112,11 @@
             <path>
               <item name="jsonauction" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsonauction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonauction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonauction" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsonauction" type="b2602c69:ProjectViewProjectNode" />
@@ -182,7 +153,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in tests_auction_api.py">
+    <configuration name="Unittests in tests_auction_api.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jsonauction" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/tests_auction_api.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration name="Unittests in tests_auction_manager.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,23 +195,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="jsonauction" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="stats_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_manager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="jsonauction" />
-      <option name="SCRIPT_NAME" value="C:\Users\m\PycharmProjects\jsonauction\auction_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,17 +236,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tests" />
       <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.stats_manager" />
-      <item index="3" class="java.lang.String" itemvalue="Python.temp" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in tests_auction_manager.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.temp" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in tests_auction_manager.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in tests_auction_api.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in tests_auction_manager.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tests" />
-        <item index="2" class="java.lang.String" itemvalue="Python.temp" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.stats_manager" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in tests_auction_api.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in tests_auction_manager.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tests" />
+        <item index="4" class="java.lang.String" itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -296,21 +264,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_tests_auction_manager_py - 2019.07.21 at 13h 31m 33s.xml">
-      <configuration name="Unittests in tests_auction_manager.py" configurationId="tests" />
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 20m 49s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2019.07.21 at 13h 27m 30s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 24m 19s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_py - 2019.07.21 at 13h 29m 35s.xml">
-      <configuration name="Unittests in tests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 24m 25s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 24m 35s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 25m 11s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 28m 39s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 29m 28s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 30m 23s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 30m 46s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_tests_auction_api_py - 2019.07.21 at 14h 31m 33s.xml">
+      <configuration name="Unittests in tests_auction_api.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18152525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05263158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -319,7 +308,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4237379" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29001075" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -335,7 +324,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="19" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -372,6 +361,7 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#394#413#0" expanded="false" />
+            <element signature="e#482#625#0" expanded="false" />
             <element signature="e#684#750#0" expanded="false" />
             <element signature="e#806#1025#0" expanded="false" />
             <element signature="e#1064#1150#0" expanded="false" />
@@ -406,6 +396,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3193">
           <caret line="103" column="4" lean-forward="false" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -416,6 +407,7 @@
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#394#413#0" expanded="false" />
+            <element signature="e#482#625#0" expanded="false" />
             <element signature="e#684#750#0" expanded="false" />
             <element signature="e#806#1025#0" expanded="false" />
             <element signature="e#1064#1150#0" expanded="false" />
@@ -462,6 +454,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="103" column="4" lean-forward="false" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,14 +489,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.py" />
-    <entry file="file://$PROJECT_DIR$/files/records.json" />
-    <entry file="file://$PROJECT_DIR$/tests/tests_auction_manager.py">
+    <entry file="file://$PROJECT_DIR$/files/records.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_auction_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="51" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <element signature="e#152#3931#0" expanded="false" />
+            <element signature="e#598#641#0" expanded="false" />
             <element signature="e#687#2034#0" expanded="false" />
             <element signature="e#2080#2848#0" expanded="false" />
             <element signature="e#2926#3297#0" expanded="false" />
@@ -512,13 +512,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/tests_auction_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="29" column="81" lean-forward="false" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/auction_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="465">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <element signature="e#394#413#0" expanded="false" />
+            <element signature="e#482#625#0" expanded="false" />
             <element signature="e#684#750#0" expanded="false" />
             <element signature="e#806#1025#0" expanded="false" />
             <element signature="e#1064#1150#0" expanded="false" />
@@ -531,24 +552,6 @@
             <element signature="e#2504#2692#0" expanded="false" />
             <element signature="e#2758#2880#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/tests_auction_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
