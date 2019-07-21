@@ -1,5 +1,4 @@
 import unittest
-import os
 from datetime import datetime, timedelta
 
 from auction_manager import AuctionManager
@@ -18,7 +17,7 @@ class AuctionManagerTest(unittest.TestCase):
                             "client_id": "456"}
 
     def tearDown(self):
-        os.remove('files/records.json')
+        AuctionManager(load_existing_records=False)
 
     def test_can_insert_bids(self):
         self.auction_manager = AuctionManager(load_existing_records=False)
@@ -75,11 +74,3 @@ class AuctionManagerTest(unittest.TestCase):
 
 suite = unittest.TestLoader().loadTestsFromTestCase(AuctionManagerTest)
 unittest.TextTestRunner(verbosity=2).run(suite)
-
-# def test_send_bid():
-#     bid_dict = {"item_id": "123",
-#                 "price": 1.99,
-#                 "client_id": "123"}
-#     response = requests.post("http://127.0.0.1:5000/bid", json=json.dumps(bid_dict))
-#     print(response.content)
-#     print("finish")
